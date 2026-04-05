@@ -47,8 +47,7 @@
 </div>
 
 <!--- Github Analytics Section -->
-<h3 align="center">⚙️ GitHub Analytics</h4> 
+<!-- <h3 align="center">⚙️ GitHub Analytics</h4> 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cslabiano&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cslabiano&theme=dracula" alt="GitHub Activity Graph" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=cslabiano&theme=dracula" alt="GitHub Trophies" />
+</p> -->
