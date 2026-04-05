@@ -49,14 +49,6 @@
 <!--- Github Analytics Section -->
 <h3 align="center">⚙️ GitHub Analytics</h4> 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cslabiano&theme=dracula&count_private=true&show_icons=true&include_all_commits=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslabiano&theme=dracula&layout=compact"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cslabiano&show_icons=true&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=cslabiano&theme=dracula" />
 </p>
