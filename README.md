@@ -46,10 +46,17 @@
   </a>
 </div>
 
-<!--- Social Links Section -->
+<!--- Github Analytics Section -->
 <h3 align="center">⚙️ GitHub Analytics</h4> 
-<div align='center' style='display: flex;  flex-direction: column; flex-wrap: wrap; align-items: center'>
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cslabiano&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats' alt='stats' style='width: 20rem' /> <br />
-
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cslabiano&theme=dracula&layout=compact' alt='languages' style='width: 20rem' />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cslabiano&theme=dracula&count_private=true&show_icons=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslabiano&theme=dracula&layout=compact"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
